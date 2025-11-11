@@ -1,5 +1,5 @@
 const func1 =()=>{
-    return 'This is a conflict line...'
+    return 'This is a conflict line!!! must to work!!!'
 }
 
 const func2 =()=>{
